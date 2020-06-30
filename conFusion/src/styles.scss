@@ -2,9 +2,9 @@
 @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
 
 @import 'named_variables';
-@import '../node_modules/font-awesome/scss/font-awesome';
+// @import '../node_modules/font-awesome/scss/font-awesome';
 
-// some basic resets 
+// some basic resets
 
 $lt-gray: #ddd;
 $background-dark: #512DA8;
@@ -24,11 +24,11 @@ $divider-color:        #BDBDBD;
     padding: $pad-up-down $pad-left-right;
 }
 
-body { 
-  padding: 0; 
-  margin: 0; 
-  font-family: Roboto, sans-serif; 
-  
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Roboto, sans-serif;
+
 }
 
 .container {
